@@ -1,0 +1,1 @@
+export const BASE_API = "https://api.brawlapi.com/v1/brawlers"
